@@ -20,4 +20,4 @@ Below, you'll find a list of all the bots currently in commission, as well as bo
 | Hawkeye                                                         | Will handle additional moderation features                         |
 | Stopwatch*                                                      | Will handle automatic slow-mode management                         |
 
-* *This bot may not be implemented.*
+\* *This bot may not be implemented.*
