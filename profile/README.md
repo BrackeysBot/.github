@@ -17,6 +17,7 @@ Below, you'll find a list of all the bots currently in commission, as well as bo
 | [HeapOverflow](https://github.com/BrackeysBot/HeapOverflow)     | Will introduce QoL enhancements for the Development & Help section |
 | [Wingman](https://github.com/BrackeysBot/Wingman)               | Will handle listings in the Collaboration section                  |
 | [Marmalade](https://github.com/BrackeysBot/Marmalade)           | Will handle game jams and jam role assignments                     |
+| [Cloak](https://github.com/BrackeysBot/Cloak)                   | Manages self-roles and persistent roles                            |
 | Hawkeye                                                         | Will handle additional moderation features                         |
 | Stopwatch*                                                      | Will handle automatic slow-mode management                         |
 
