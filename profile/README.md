@@ -11,14 +11,14 @@ Below, you'll find a list of all the bots currently in commission, as well as bo
 |-----------------------------------------------------------------|--------------------------------------------------------------------|
 | [BrackeysBot v3](https://github.com/yiliansource/brackeys-bot/) | The current version of BrackeysBot in commission                   |
 | [BrackeysBot v4](https://github.com/BrackeysBot/BrackeysBot)    | The next version of BrackeysBot currently in development           |
-| [Hammer](https://github.com/BrackeysBot/Hammer)                 | Manages infractions against misbehaving users                      |
-| [Pencil](https://github.com/BrackeysBot/Pencil)                 | Renders TeX and formats codeblocks                                 |
-| [Marco](https://github.com/BrackeysBot/Marco)                   | Macros (aka custom commands)                                       |
-| [HeapOverflow](https://github.com/BrackeysBot/HeapOverflow)     | Will introduce QoL enhancements for the Development & Help section |
-| [Wingman](https://github.com/BrackeysBot/Wingman)               | Will handle listings in the Collaboration section                  |
-| [Marmalade](https://github.com/BrackeysBot/Marmalade)           | Will handle game jams and jam role assignments                     |
 | [Cloak](https://github.com/BrackeysBot/Cloak)                   | Manages self-roles and persistent roles                            |
+| [Hammer](https://github.com/BrackeysBot/Hammer)                 | Manages infractions against misbehaving users                      |
 | Hawkeye                                                         | Will handle additional moderation features                         |
+| [HeapOverflow](https://github.com/BrackeysBot/HeapOverflow)     | Will introduce QoL enhancements for the Development & Help section |
+| [Marco](https://github.com/BrackeysBot/Marco)                   | Macros (aka custom commands)                                       |
+| [Marmalade](https://github.com/BrackeysBot/Marmalade)           | Will handle game jams and jam role assignments                     |
+| [Pencil](https://github.com/BrackeysBot/Pencil)                 | Renders TeX and formats codeblocks                                 |
+| [Wingman](https://github.com/BrackeysBot/Wingman)               | Will handle listings in the Collaboration section                  |
 | Stopwatch*                                                      | Will handle automatic slow-mode management                         |
 
 \* *This bot may not be implemented.*
