@@ -12,6 +12,7 @@ Below, you'll find a list of all the bots currently in commission, as well as bo
 | [BrackeysBot v3](https://github.com/yiliansource/brackeys-bot/) | The current version of BrackeysBot in commission                   |
 | [BrackeysBot v4](https://github.com/BrackeysBot/BrackeysBot)    | The next version of BrackeysBot currently in development           |
 | [Cloak](https://github.com/BrackeysBot/Cloak)                   | Manages self-roles and persistent roles                            |
+| GiveawayBot                                                     | Will handle giveaways                                              |                         
 | [Hammer](https://github.com/BrackeysBot/Hammer)                 | Manages infractions against misbehaving users                      |
 | Hawkeye                                                         | Will handle additional moderation features                         |
 | [HeapOverflow](https://github.com/BrackeysBot/HeapOverflow)     | Will introduce QoL enhancements for the Development & Help section |
