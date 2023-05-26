@@ -17,6 +17,7 @@ Below, you'll find a list of all the bots currently in commission, as well as bo
 | [HeapOverflow](https://github.com/BrackeysBot/HeapOverflow)     | Will introduce QoL enhancements for the Development & Help section |
 | [Marco](https://github.com/BrackeysBot/Marco)                   | Macros (aka custom commands)                                       |
 | [Marmalade](https://github.com/BrackeysBot/Marmalade)           | Will handle game jams and jam role assignments                     |
+| [PasteMystBot](https://github.com/BrackeysBot/PasteMystBot)     | Integrates with PasteMyst API to paste codeblocks and attachments  |
 | [Pencil](https://github.com/BrackeysBot/Pencil)                 | Renders TeX and formats codeblocks                                 |
 | [Present](https://github.com/BrackeysBot/Present)               | Handle giveaways                                                   |
 | [Wingman](https://github.com/BrackeysBot/Wingman)               | Will handle listings in the Collaboration section                  |
