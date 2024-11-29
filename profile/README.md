@@ -1,5 +1,5 @@
 <h1 align="center">BrackeysBot</h1>
-<p align="center"><img src="icon.png" width="128"></p>
+<p align="center"><img src="../icon.png" width="128"></p>
 <p align="center"><a href="https://discord.gg/brackeys"><img src="https://discordapp.com/api/guilds/243005537342586880/widget.png?style=shield"></a></p>
 
 Welcome to the official BrackeysBot GitHub organisation, home of all the bots which power the Brackeys Community Discord server.
